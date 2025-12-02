@@ -4,7 +4,7 @@ import sitemap from '@astrojs/sitemap';
 import tailwind from '@astrojs/tailwind';
 
 export default defineConfig({
-  site: 'https://FernandoUAGRM.githob.io',
+  site: 'https://FernandoUAGRM.github.io',
   output: "static",   // IMPORTANTE para GitHub Pages
   integrations: [
     mdx(),
