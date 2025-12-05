@@ -22,9 +22,7 @@ export const IconKeys = {
   javaScript: "javaScript",
   react: "react",
   astro: "astro",
-  nextjs: "nextjs",
   styled: "styled",
-  tailwind: "tailwind",
   git: "git",
   github: "github",
   stripe: "stripe",
@@ -50,16 +48,8 @@ export const skills = [
     icon: IconKeys.astro,
   },
   {
-    title: "Tailwindcss",
-    icon: IconKeys.tailwind,
-  },
-  {
     title: "React Js",
     icon: IconKeys.react,
-  },
-  {
-    title: "Next Js",
-    icon: IconKeys.nextjs,
   },
   {
     title: "Git",
